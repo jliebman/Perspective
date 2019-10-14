@@ -1,0 +1,4 @@
+Distance 1: 6 Guessed Distance: 5
+Distance 2: 18 Guessed Distance: 18
+Distance 3: 22 Guessed Distance: 22
+

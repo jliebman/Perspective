@@ -1,0 +1,64 @@
+Distance 1: 7 Guessed Distance: 8
+Distance 2: 13 Guessed Distance: 14
+Distance 3: 28 Guessed Distance: 50
+
+Height 1: 1 Guessed Height: 1
+Height 2: 6 Guessed Height: 6
+Height 3: 3 Guessed Height: 4
+
+Width 1: 3 Guessed Width: 2
+Width 2: 9 Guessed Width: 10
+Width 3: 4 Guessed Width: 5
+
+Distance 1: 17 Guessed Distance: 14
+Distance 2: 50 Guessed Distance: 36
+Distance 3: 76 Guessed Distance: 56
+
+Height 1: 10 Guessed Height: 8
+Height 2: 23 Guessed Height: 16
+Height 3: 30 Guessed Height: 28
+
+Distance 1: 30 Guessed Distance: 27
+Distance 2: 63 Guessed Distance: 54
+Distance 3: 92 Guessed Distance: 69
+
+Height 1: 20 Guessed Height: 15
+Height 2: 23 Guessed Height: 21
+Height 3: 30 Guessed Height: 30
+
+Distance 1: 27 Guessed Distance: 30
+Distance 2: 66 Guessed Distance: 90
+Distance 3: 92 Guessed Distance: 170
+
+Distance 1: 17 Guessed Distance: 5
+Distance 2: 56 Guessed Distance: 20
+Distance 3: 132 Guessed Distance: 50
+
+Distance 1: 30 Guessed Distance: 567
+Distance 2: 53 Guessed Distance: 3
+Distance 3: 86 Guessed Distance: 1
+
+Height 1: 33 Guessed Height: 5
+Height 2: 4 Guessed Height: 9
+Height 3: 27 Guessed Height: 6
+
+Width 1: 27 Guessed Width: 5
+Width 2: 23 Guessed Width: 5
+Width 3: 17 Guessed Width: 5
+
+Distance 1: 27 Guessed Distance: 10
+Distance 2: 53 Guessed Distance: 20
+Distance 3: 79 Guessed Distance: 69
+
+Height 1: 27 Guessed Height: 35
+Height 2: 23 Guessed Height: 70
+Height 3: 14 Guessed Height: 50
+
+Distance 1: 17 Guessed Distance: 7
+Distance 2: 50 Guessed Distance: 7
+Distance 3: 102 Guessed Distance: 7
+
+Distance 1: 33 Guessed Distance: 8
+Distance 2: 40 Guessed Distance: 8
+Distance 3: 128 Guessed Distance: 8
+
